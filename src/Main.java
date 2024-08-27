@@ -52,6 +52,8 @@ public class Main {
                 System.out.print(", ");
             }
             System.out.print(inst[i]);
+
+
         }
     }
 }
