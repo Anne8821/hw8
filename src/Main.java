@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        //task 1
+
         int[] intArray = new int[]{1, 2, 3};
         double[] doubles = {1.57, 7.654, 9.986};
         char[] chars = {'a', 'b', 'c', 'd', 'e', 'f'};
@@ -52,6 +52,8 @@ public class Main {
                 System.out.print(", ");
             }
             System.out.print(inst[i]);
+
+
         }
     }
 }
